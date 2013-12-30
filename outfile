@@ -1,0 +1,13 @@
+Makefile
+header.h
+header.h~
+infile
+libft
+main.c
+main.c~
+main.o
+minishell1
+outfile
+outfile2
+outfile3
+pipex
