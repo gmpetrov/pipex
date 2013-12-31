@@ -6,12 +6,12 @@
 #    By: gpetrov <gpetrov@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2013/12/27 19:34:26 by gpetrov           #+#    #+#              #
-#    Updated: 2013/12/30 15:10:25 by gpetrov          ###   ########.fr        #
+#    Updated: 2013/12/31 15:47:04 by gpetrov          ###   ########.fr        #
 #                                                                              #
 #******************************************************************************#
 
 NAME	= pipex
-SRCS	= main.c
+SRCS	= main.c ft_exec.c
 OBJS	= ${SRCS:.c=.o}
 INC		= ./
 FLAGS	= -Wall -Wextra -Werror -pedantic
